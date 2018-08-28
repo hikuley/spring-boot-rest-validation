@@ -1,4 +1,4 @@
-package com.lmonkiewicz.example.model;
+package com.hikuley.example.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

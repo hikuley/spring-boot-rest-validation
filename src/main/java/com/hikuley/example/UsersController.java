@@ -1,7 +1,7 @@
-package com.lmonkiewicz.example;
+package com.hikuley.example;
 
-import com.lmonkiewicz.example.model.ErrorResponse;
-import com.lmonkiewicz.example.model.User;
+import com.hikuley.example.model.ErrorResponse;
+import com.hikuley.example.model.User;
 import org.springframework.context.support.DefaultMessageSourceResolvable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

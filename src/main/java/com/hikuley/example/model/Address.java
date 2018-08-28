@@ -1,6 +1,6 @@
-package com.lmonkiewicz.example.model;
+package com.hikuley.example.model;
 
-import com.lmonkiewicz.example.validation.IsCorrectAddress;
+import com.hikuley.example.validation.IsCorrectAddress;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

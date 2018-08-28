@@ -1,8 +1,8 @@
-package com.lmonkiewicz.example;
+package com.hikuley.example;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lmonkiewicz.example.model.Message;
+import com.hikuley.example.model.Message;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

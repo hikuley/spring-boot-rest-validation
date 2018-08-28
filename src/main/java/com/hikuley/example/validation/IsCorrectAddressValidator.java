@@ -1,6 +1,6 @@
-package com.lmonkiewicz.example.validation;
+package com.hikuley.example.validation;
 
-import com.lmonkiewicz.example.model.Address;
+import com.hikuley.example.model.Address;
 
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
